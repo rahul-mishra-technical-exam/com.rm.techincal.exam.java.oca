@@ -1,4 +1,4 @@
-######## Operator
+# Operator
 
 > If an expression has multiple ternary operators then number of ? and : should match
 
